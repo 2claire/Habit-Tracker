@@ -5,6 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <section>
+    <h1 class="text-4xl px-5">hello</h1>
     <RouterView />
     <HelloWorld/>
   </section>
